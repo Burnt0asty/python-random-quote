@@ -1,4 +1,4 @@
-def main():
+def toast():
   print("Keep it logically awesome lol.")
 
   #f = open("quotes.txt")
@@ -8,4 +8,4 @@ def main():
   #print(quotes)
 
 if __name__== "__main__":
-  main()
+  toast()
